@@ -1,0 +1,4 @@
+.banner-img {
+  background: url('images/banner-image.jpg') no-repeat center center fixed;
+  background-size: cover;
+}
