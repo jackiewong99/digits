@@ -140,7 +140,7 @@ After logging in, here is the page that allows you to list all the contacts you 
 
 You can click the "Edit" link to go to the Edit Contact page, shown next.
 
-#### Edit Contact page
+#### Edit Contact Page
 
 After clicking on the "Edit" link associated with a contact, this page displays the form that allows you to change and save the contact's information:
 
